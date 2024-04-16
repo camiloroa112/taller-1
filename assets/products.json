@@ -1,0 +1,23 @@
+{
+    "products": 
+    [
+        {
+            "id": 1,
+            "name": "Coca Cola",
+            "description": "Bebida Gaseosa",
+            "price": 2000
+        },
+        {
+            "id": 2,
+            "name": "Fanta",
+            "description": "Bebida Gaseosa",
+            "price": 1500
+        },
+        {
+            "id": 3,
+            "name": "Jugo de Maracuya",
+            "description": "Jugo Natural",
+            "price": 1800
+        }
+    ]
+}
